@@ -1,14 +1,10 @@
 Flask==3.0.3
-gunicorn==22.0.0
+flask-cors
+gunicorn
 psycopg2
-python-dotenv==1.0.1
+python-dotenv
 scrapling
 playwright
-greenlet
-lxml
 apscheduler
-lxml
-flask-cors
-
 PyJWT
 
