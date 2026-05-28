@@ -1,7 +1,7 @@
 Flask==3.0.3
 flask-cors
 gunicorn
-psycopg2
+psycopg2-binary
 python-dotenv
 scrapling
 playwright
