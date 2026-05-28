@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "puma": {
+      "running": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/search?q=running"
+      },
+      "lifestyle": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/search?q=lifestyle"
+      },
+      "training": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/search?q=training"
+      },
+      "basketball": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/search?q=basketball"
+      },
+      "soccer": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/search?q=soccer"
+      },
+      "discounts": {
+        "count": 1,
+        "source_url": "https://us.puma.com/us/en/sale/all-sale"
+      }
+    }
+  },
+  "products": [
+    {
+      "name": "Men's Road Running Shoes",
+      "sku": null,
+      "brand": "Puma",
+      "category": "running",
+      "price": 125.99,
+      "url": "https://us.puma.com/us/en/pd/magmax-nitro-mens-road-running-shoes/310088?search=true&swatch=01",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/310088/01/sv01/fnd/PNA/fmt/png/MagMax-NITRO™-Men's-Road-Running-Shoes",
+      "source": "html"
+    },
+    {
+      "name": "Men's Sneakers",
+      "sku": null,
+      "brand": "Puma",
+      "category": "lifestyle",
+      "price": 44.99,
+      "url": "https://us.puma.com/us/en/pd/park-lifestyle-sk8-mens-sneakers/400708?search=true&swatch=05",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_300,h_300/global/400708/05/sv01/fnd/PNA/fmt/png/Park-Lifestyle-SK8-Men's-Sneakers",
+      "source": "html"
+    }
+  ]
+}
